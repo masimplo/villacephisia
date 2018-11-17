@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "VillaCephisia",
     author: "Michael Asimakopoulos",
-    description: "A better villa"
+    description: "Your stay, our pleasure"
   },
   pathPrefix: '/',
   plugins: [
