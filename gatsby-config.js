@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "TravelBee",
+    title: "VillaCephisia",
     author: "Michael Asimakopoulos",
-    description: "A better travel agency"
+    description: "A better villa"
   },
   pathPrefix: '/',
   plugins: [
